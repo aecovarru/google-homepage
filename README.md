@@ -1,6 +1,6 @@
-# google-homepage
+The Odin Project
+===
+HTML/CSS Project: Google Homepage
+---
 
-Project: HTML/CSS
-
-Link To Assignment
-http://www.theodinproject.com/web-development-101/html-css
+[Project link] (http://www.theodinproject.com/web-development-101/html-css "Google Homepage")
